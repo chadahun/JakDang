@@ -1,8 +1,6 @@
 # JakDang
----
 
-##  ※ 데이터는 Jira에서 Github에서는 코드만
-
+**※ 데이터는 Jira에서 Github에서는 코드만**
 
 ---
 
@@ -18,11 +16,14 @@
 
 ## 🛠️ 기술 스택
 
-- **Frontend**: React, TailwindCSS
+- **DeepLearning Framework**: Pytorch, TensorFlow(Keras)
 - **Backend**: Node.js, Express
 - **Database**: MongoDB
 - **API**: OpenWeather API
-
+- **학습법**:
+-  - 지도 학습
+-  - 비지도 학습
+-  - 강화 학습
 ---
 
 ## 🗓️ 프로젝트 일정
